@@ -91,8 +91,8 @@ end
     gem name, version
     require name
   rescue LoadError
-    Daru.error "\nInstall the #{name} gem version #{version} for using"\
-    " #{name} functions."
+    #Daru.error "\nInstall the #{name} gem version #{version} for using"\
+    #" #{name} functions."
   end
 end
 
