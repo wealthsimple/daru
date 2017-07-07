@@ -1,4 +1,4 @@
-# daru - Data Analysis in RUby
+# daru (without annoying warning) - Data Analysis in RUby
 
 [![Gem Version](https://badge.fury.io/rb/daru.svg)](http://badge.fury.io/rb/daru)
 [![Build Status](https://travis-ci.org/SciRuby/daru.svg?branch=master)](https://travis-ci.org/SciRuby/daru)
